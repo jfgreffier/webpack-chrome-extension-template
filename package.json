@@ -6,6 +6,7 @@
   "devDependencies": {
     "copy-webpack-plugin": "^4.6.0",
     "webpack": "^4.29.6",
+    "webpack-chrome-extension-reloader": "^1.1.2",
     "webpack-cli": "^3.2.3"
   }
 }
